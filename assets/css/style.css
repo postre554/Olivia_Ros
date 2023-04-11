@@ -1,0 +1,59 @@
+body *{
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Raleway', sans-serif;
+
+
+}
+.colored-navbar{
+ background-color:#373A3C;
+}
+
+#hero-section{
+ background-image:url(../img/bg-hero.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position:left;
+}
+
+.acerca_titulo {
+    font-size:45px;
+    margin-top:0px;
+}
+.svg_icons{
+ 
+    fill:rgb(38, 23, 51);
+    height:42px;
+}
+.ancho_trabajos{
+    width:max(450px);
+    /* border:0px solid red; */
+}
+.image_wrapper{
+    /* border:0px solid red; */
+    width:max(26rem);
+    overflow: hidden;
+    height:max(239px);
+
+
+}
+
+.wrapper_mstrabajos{
+    /* border:0px solid rgb(139, 133, 133); */
+    background-color:#17A2B8;
+    min-height:700px;
+}
+
+.boton_ver{
+  width: 99px;
+  height: 40px;
+
+}
+.pie_altura{
+    letter-spacing:1px;
+    padding-top:25px;
+    min-height: 70px;
+    vertical-align: middle;
+  
+  }
+  
